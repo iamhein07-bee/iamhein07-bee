@@ -62,11 +62,13 @@ AI is a technology tool which is made to assist humans to free more time and liv
 It is like Google but Google-2.
 That’s why I decided to make this blog.
  I use Gemini AI to help me create and assist this blog.
+
 <div style="color: #0b5394;">
  
 AI: I am a large language model, a computer program created by Google. I am designed to process and generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way.
 
 </div>
+
 Sincerely,
 
 Hein
@@ -101,8 +103,11 @@ Gemini AI
 Follow AI:
 
 Gemini AI
+
 <div style="color: #0b5394;">
 
 - Generated text from AI
+
+</div>
 
 </div>
