@@ -108,6 +108,5 @@ Gemini AI
 
 - Generated text from AI
 
-</div>
 
 </div>
