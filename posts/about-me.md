@@ -107,6 +107,3 @@ Gemini AI
 <div style="color: #0b5394;">
 
 - Generated text from AI
-
-
-</div>
