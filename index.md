@@ -1,4 +1,3 @@
-# Awaken With AI
 Welcome To Our Blog.
 ## Posts
 -[About Me](posts/about-me.html)
