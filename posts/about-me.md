@@ -1,6 +1,6 @@
 ﻿# About Me
 
-![Image](/images/IMG_20200223_101636.jpg)
+![Image](/iamhein-07-bee/images/IMG_20200223_101636.jpg)
 
 
 
@@ -25,7 +25,7 @@ I am a Libra.
 
 
 
-![Image](/images/FB_IMG_1733381011855.jpg)
+![Image](/iamhein-07-bee/images/FB_IMG_1733381011855.jpg)
 
 
 
@@ -47,7 +47,7 @@ I want to be a drop of that wave, too.
 
 
 
-![Image](/images/FB_IMG_1728363550742.jpg)
+![Image](/iamhein-07-bee/images/FB_IMG_1728363550742.jpg)
 
 
 
@@ -91,7 +91,7 @@ Youtube
 
 
 
-![Image](/images/IO24_WhatsInAName_Hero_1.width-1200.format-webp.webp)
+![Image](/iamhein-07-bee/images/IO24_WhatsInAName_Hero_1.width-1200.format-webp.webp)
 
 
 
