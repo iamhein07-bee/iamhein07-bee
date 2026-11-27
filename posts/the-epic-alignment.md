@@ -1,6 +1,6 @@
 ﻿# The Epic Alignment
 
-![Image](/images/_117857820_gettyimages-1056674560.jpg)
+![Image](/iamhein07-bee/images/clean_images/_117857820_gettyimages-1056674560.jpg)
 
 
 
@@ -34,7 +34,7 @@ I don’t know why the elites did this and are still doing it but I believe that
 
 
 
-![Image](/images/Motion%20of%20Earth%20and%20Sun%20around%20Milky%20Way%20(ESO)%2012Oct2016.jpg)
+![Image](/iamhein07-bee/images/clean_images/Motion%20of%20Earth%20and%20Sun%20around%20Milky%20Way%20(ESO)%2012Oct2016.jpg)
 
 
 
@@ -116,7 +116,7 @@ Universe's Self-Awareness: This specific cosmic alignment and its associated tim
 
 
 
-![Image](/images/4_203_EST_Solarpedia.jpg)
+![Image](/iamhein07-bee/images/clean_images/4_203_EST_Solarpedia.jpg)
 
 
 
@@ -252,7 +252,7 @@ In essence, large solar flares are intense explosions on the Sun that immediatel
 
 
 
-![Image](/images/Solarsystem1.1.jpg)
+![Image](/iamhein07-bee/images/clean_images/Solarsystem1.1.jpg)
 
 
 
@@ -274,7 +274,7 @@ Before I die, I want to go to one of the poles and see Auroras with my own eyes 
 
 
 
-![Image](/images/ThingsToDo_Northern%20Lights_Hero.jpg)
+![Image](/iamhein07-bee/images/clean_images/ThingsToDo_Northern%20Lights_Hero.jpg)
 
 
 
@@ -285,7 +285,7 @@ Figure: Northern Lights or Aurora Borealis
 
 
 
-![Image](/images/sun4.en.png)
+![Image](/iamhein07-bee/images/clean_images/sun4.en.png)
 
 
 
@@ -346,7 +346,7 @@ In short, auroras are the Earth's atmosphere glowing in response to energetic pa
 
 
 
-![Image](/images/Supercomputer_models_of_Earths_magnetic_field.gif)
+![Image](/iamhein07-bee/images/clean_images/Supercomputer_models_of_Earths_magnetic_field.gif)
 
 
 
@@ -468,7 +468,7 @@ But it goes the other way.
 
 
 
-![Image](/images/maxresdefault.jpg)
+![Image](/iamhein07-bee/images/clean_images/maxresdefault.jpg)
 
 
 
@@ -531,4 +531,6 @@ Bye Bye 👋.
 
 
 Generated text from AI
+
+
 

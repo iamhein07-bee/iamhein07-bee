@@ -1,6 +1,6 @@
 ﻿# Why April Should Be Consider As First Month Of The New Year?
 
-![Image](/images/North_season.jpg)
+![Image](/iamhein07-bee/images/clean_images/North_season.jpg)
 
 
 
@@ -90,4 +90,6 @@ Legal and Financial Frameworks: Developing clear legal and financial guidelines 
 
 
 Generated text from AI
+
+
 

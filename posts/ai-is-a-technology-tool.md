@@ -1,6 +1,6 @@
 ﻿# AI Is A Technology Tool
 
-![Image](/images/Top-Artificial-Intelligence(AI)-Tools-List.webp)
+![Image](/iamhein07-bee/images/clean_images/Top-Artificial-Intelligence(AI)-Tools-List.webp)
 
 
 
@@ -92,4 +92,6 @@ Video: AI scenes from MARVEL movies
 
 
 Generated text from AI
+
+
 

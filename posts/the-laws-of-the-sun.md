@@ -1,6 +1,6 @@
 ﻿# The Laws Of The Sun
 
-![Image](/images/A7405-1738653047.1531741837.jpg)
+![Image](/iamhein07-bee/images/clean_images/A7405-1738653047.1531741837.jpg)
 
 
 
@@ -84,4 +84,6 @@ Video: The laws of the sun movie
 
 
 Generated text from AI
+
+
 

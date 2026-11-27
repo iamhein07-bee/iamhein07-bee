@@ -1,6 +1,6 @@
 ﻿# This Is How I Meditate
 
-![Image](/images/Erling-haaland-strike-a-lotus-pose-after-scoring-a-goal.webp)
+![Image](/iamhein07-bee/images/clean_images/Erling-haaland-strike-a-lotus-pose-after-scoring-a-goal.webp)
 
 
 
@@ -97,7 +97,7 @@ Remember, the "correct" way to meditate is the way that works best for you and h
 
 
 
-![Image](/images/969e8e20efe3069859275b5fbe43d354.jpg)
+![Image](/iamhein07-bee/images/clean_images/969e8e20efe3069859275b5fbe43d354.jpg)
 
 
 
@@ -105,4 +105,6 @@ Figure: Picture of Gautama Buddha meditation
 
 
 Generated text from AI
+
+
 

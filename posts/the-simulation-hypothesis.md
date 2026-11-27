@@ -1,6 +1,6 @@
 ﻿# The Simulation Hypothesis
 
-![Image](/images/Gemini_Generated_Image_yi0ibiyi0ibiyi0i.png)
+![Image](/iamhein07-bee/images/clean_images/Gemini_Generated_Image_yi0ibiyi0ibiyi0i.png)
 
 
 
@@ -121,7 +121,7 @@ Video: Astrophysicist Neil deGrasse Tyson’s Star Talk podcast
 
 
 
-![Image](/images/FB_IMG_1704032372830.jpg)
+![Image](/iamhein07-bee/images/clean_images/FB_IMG_1704032372830.jpg)
 
 
 
@@ -178,4 +178,6 @@ I feel, therefore I have a soul." 
 	
 
 Generated text from AI
+
+
 

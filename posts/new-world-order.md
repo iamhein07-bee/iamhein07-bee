@@ -1,6 +1,6 @@
 ﻿# New World Order!
 
-![Image](/images/images%20(1).jpeg)
+![Image](/iamhein07-bee/images/clean_images/images%20(1).jpeg)
 
 
 
@@ -19,7 +19,7 @@ I cannot explain specifically but I can show you who can.
 
 
 
-![Image](/images/MV5BMDNlNzg3MGMtOWU4Ny00NmQyLWIxMTMtOWMxNDdlNzJlOWYzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg)
+![Image](/iamhein07-bee/images/clean_images/MV5BMDNlNzg3MGMtOWU4Ny00NmQyLWIxMTMtOWMxNDdlNzJlOWYzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg)
 
 
 
@@ -80,4 +80,6 @@ davidicke.com
 Follow Freedom Platform:
 
 freedomplatform.tv
+
+
 

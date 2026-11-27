@@ -25,7 +25,7 @@ I am a Libra.
 
 
 
-![Image](/iamhein-07-bee/images/FB_IMG_1733381011855.jpg)
+![Image](/iamhein07-bee/images/clean_images/FB_IMG_1733381011855.jpg)
 
 
 
@@ -47,7 +47,7 @@ I want to be a drop of that wave, too.
 
 
 
-![Image](/iamhein-07-bee/images/FB_IMG_1728363550742.jpg)
+![Image](/iamhein07-bee/images/clean_images/FB_IMG_1728363550742.jpg)
 
 
 
@@ -63,11 +63,7 @@ It is like Google but Google-2.
 That’s why I decided to make this blog.
  I use Gemini AI to help me create and assist this blog.
 
-<div style="color: #0b5394;">
- 
 AI: I am a large language model, a computer program created by Google. I am designed to process and generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way.
-
-</div>
 
 Sincerely,
 
@@ -91,7 +87,7 @@ Youtube
 
 
 
-![Image](/iamhein-07-bee/images/IO24_WhatsInAName_Hero_1.width-1200.format-webp.webp)
+![Image](/iamhein07-bee/images/clean_images/IO24_WhatsInAName_Hero_1.width-1200.format-webp.webp)
 
 
 
@@ -104,8 +100,5 @@ Follow AI:
 
 Gemini AI
 
-<div style="color: #0b5394;">
 
-- Generated text from AI
 
-</div>

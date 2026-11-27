@@ -1,6 +1,6 @@
 ﻿# OMG!
 
-![Image](/images/Gemini_Generated_Image_j105pij105pij105.jpeg)
+![Image](/iamhein07-bee/images/clean_images/Gemini_Generated_Image_j105pij105pij105.jpeg)
 
 Figure: Generated image from AI    Oh my god! A girl just text me.Just kidding, I don't have a girlfriend.
 
@@ -27,7 +27,7 @@ For example,
 
 
 
-![Image](/images/FB_IMG_1733646402017.jpg)
+![Image](/iamhein07-bee/images/clean_images/FB_IMG_1733646402017.jpg)
 
 
 
@@ -49,11 +49,13 @@ No pleasure, no grief as Buddha said.
 
 
 
-![Image](/images/FB_IMG_1733214520675.jpg)
+![Image](/iamhein07-bee/images/clean_images/FB_IMG_1733214520675.jpg)
 
 
 
 "If you are looking for God, you will find yourself,
 
     If you are looking for yourself, you will find God."
+
+
 
