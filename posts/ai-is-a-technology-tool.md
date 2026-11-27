@@ -6,7 +6,7 @@
 
    
 
-     "Artificial intelligence is rapidly transforming our world, and at its core, it's a powerful tool reshaping how we live and work."  Yes, it is. Peoples are freaking out of AI because of too many sci-fi movies.
+     "Artificial intelligence is rapidly transforming our world, and at its core, it's a powerful tool reshaping how we live and work."  Yes, it is. Peoples are freaking out of AI because of too many sci-fi movies and misinformations.
 AI is a technology tool which is made to assist humans to free more time and live an easier life.
 
 It is like Google but Google-2.
