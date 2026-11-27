@@ -1,6 +1,6 @@
 ﻿# About Me
 
-![Image](/iamhein07-bee/images/IMG_20200223_101636.jpg)
+![Image](/iamhein07-bee/images/clean-images/IMG_20200223_101636.jpg)
 
 
 
