@@ -165,7 +165,7 @@ My final questions are WHO MADE WHO?
 
 3. REALITY OR SIMULATION?
 
-Oh, by the way, Simulation is too small for me.
+Oh, by the way, The Simulation is too small for me.
 
 "I sense, therefore I am aware,
 
